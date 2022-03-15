@@ -1,0 +1,71 @@
+h1{
+  font-family: sans-serif;                                                                                                  
+
+}
+h2{
+color: yellow;
+ font-family: sans-serif;
+
+}
+h3{
+color: rgb(238, 186, 91);
+  font-family: sans-serif;
+  font-size: 25px;
+}
+h4{
+color: purple;
+font-family: sans-serif;
+font-size: 25px;
+}
+h5{
+font-family: sans-serif;
+  color:rgb(206, 194, 26);
+  font-size: 25px;
+}
+h6{
+  font-family: sans-serif;
+  color: rgb(255, 166, 0);
+  font-size: 25px;
+}
+.pic{
+max-width: 500px;
+border-radius: 30px;
+}
+h7{
+color: brown;
+font-family: sans-serif;
+font-size: 25px;
+}
+.pi{
+  max-width: 500px;
+  border-radius: 30px;
+}
+h8{
+  color: green;
+  font-family: sans-serif;
+  font-size: 25px;
+  padding-right: 300px;
+  }
+.grapes{
+  max-width: 500px;
+  border-radius: 30px;
+}
+h9{
+color: red;
+font-family: sans-serif;
+  font-size: 25px;
+
+}
+.apple{
+  max-width: 500px;
+  border-radius: 30px;
+
+
+}
+
+
+
+
+
+
+
